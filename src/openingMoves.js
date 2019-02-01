@@ -1,0 +1,16 @@
+export default {
+  elephantGambit: ['e4', 'e5', 'Nf3', 'd5'],
+  englishOpening: ['c4'],
+  evansGambit: ['e4', 'e5', 'Nf3', 'Nc6', 'Bc4', 'Bc5', 'b4'],
+  kingsGambit: ['e4', 'e5', 'f4'],
+  queensGambit: ['d4', 'd5', 'c4'],
+  retiOpening: ['Nf3'],
+  ruyLopez: ['e4', 'e5', 'Nf3', 'Nc6', 'Bb5'],
+  scandinavianGambit: ['e4', 'd5', 'exd5', 'Nf6', 'c4', 'c6'],
+  caroKannDefense: ['e4', 'c6', 'd4', 'd5', 'Nc3', 'dxe4'],
+  dutchDefense: ['d4', 'f5'],
+  frenchDefense: ['e4', 'e6', 'd4', 'd5'],
+  kingsIndianDefense: ['d4', 'Nf6', 'c4', 'g6', 'Nc3', 'Bg7'],
+  modernDefense: ['e4', 'g6', 'd4', 'Bg7'],
+  sicilianDefense: ['e4', 'c5'],
+};
